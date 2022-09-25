@@ -23,7 +23,8 @@ public class AddressBook {
         AddressBook addressBook = new AddressBook();
         addressBook.addBuddy(buddy);
         addressBook.removeBuddy(buddy);
-        System.out.println("Fixed");
+        System.out.println("Editing on GitHub");
+        
     }
 
 
