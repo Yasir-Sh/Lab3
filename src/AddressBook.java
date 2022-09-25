@@ -16,6 +16,9 @@ public class AddressBook {
     {
         listOfBuddies.remove(buddy);
     }
+    public void newMethod(){
+        System.out.println("HI");
+    }
 
     public static void main(String[] args) {
         System.out.println("Address Book");
